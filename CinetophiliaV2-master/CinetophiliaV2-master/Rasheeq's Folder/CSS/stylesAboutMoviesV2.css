@@ -1,0 +1,71 @@
+@font-face { font-family: Delicious; src: url('er.ttf'); } 
+@font-face { font-family: NewDelicious; src: url('er3.otf'); }
+
+h2{
+  font-size: 50px;
+  padding: 15px 0px;
+  width: 50%;
+  font-family: NewDelicious, sans-serif;
+  color: white;
+  text-align: center;
+}
+
+p{
+  font-size: 15px;
+  font-family: NewDelicious, sans-serif;
+  margin-left: 20px;	
+}
+
+b{
+   font-size: 20px;
+}
+.search {
+  width: 40%;
+  height: 35%;
+  position: relative
+}
+
+.searchTerm {
+  width: 70%;
+  margin: 20px;
+  padding: 5px;
+  height: 50px;
+  border-radius: 15px;
+  outline: none;
+  font-family: NewDelicious, sans-serif;
+  color: #000;
+  text-align: center;
+  background-color: #bbb;
+  border: none;
+}
+
+.searchButton {
+  width: 20%;
+  padding: 5px;
+  height: 50px;
+  background: #B8312F;
+  text-align: center;
+  font-family: NewDelicious, sans-serif;
+  color: white;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+}
+.photos
+{
+	margin-bottom: 20px;
+}
+
+.cast {
+    display: block;
+    text-align: center;
+    font-family: NewDelicious, sans-serif;
+    font-size: 20px;
+    background-color: #28324E;
+}
+
+a{
+    text-decoration: none;
+    color: #EFEFEF;
+}

@@ -1,0 +1,95 @@
+
+@font-face { font-family: NewDelicious; src: url('fonts/er3.otf'); } 
+
+h2{
+	font-size: 50px;
+	padding: 15px 0px;
+	width: 35%;
+	font-family: NewDelicious, sans-serif;
+	color: white;
+	text-align: center;
+	background-color: #B8312F; 
+	border-radius: 0px 15px 15px 0px;
+}
+
+h3{
+	font-family: NewDelicious, sans-serif;
+	font-size: 30px;
+	/*position: relative;
+	margin: 100px 0px 0px 0px;*/
+}
+
+h4{
+	font-family: NewDelicious, sans-serif;
+	font-size: 20px;
+	margin: 20px 0px 0px 20px;
+}
+
+p{
+	font-family: NewDelicious, sans-serif;
+	font-size: 18px;
+	margin: 10px 0px 0px 70px;
+}
+
+.searchTerm {
+  width: 90%;
+  margin: 20px;
+  padding: 5px;
+  height: 50px;
+  border-radius: 15px;
+  outline: none;
+  font-family: NewDelicious, sans-serif;
+  color: #000;
+  text-align: center;
+  background-color: #bbb;
+  border: none;
+}
+
+.searchButton {
+  width: 30%;
+  margin: 20px;
+  padding: 5px;
+  height: 50px;
+  background: #B8312F;
+  text-align: center;
+  font-family: NewDelicious, sans-serif;
+  color: white;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 20px;
+  border: none;
+}
+
+select{
+  width: 30%;
+  margin: 20px;
+  padding: 5px;
+  height: 50px;
+  background-color: #bbb;
+  text-align: center;
+  font-family: NewDelicious, sans-serif;
+  color: #000;
+  border-radius: 15px;
+  font-size: 25px;
+  border: none;
+}
+
+table
+{
+  width: 100%;
+  padding: 20px;
+}
+tr
+{
+   height: 100%;
+}
+td{
+  font-family: NewDelicious, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  padding: 15px;
+}
+th{
+  font-family: NewDelicious, sans-serif;
+  font-size: 25px;
+}
