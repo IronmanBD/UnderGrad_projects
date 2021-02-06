@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Unit Converter 2</string>
+    <string-array name="spinner_from">
+        <item>
+
+        </item>
+        <item>
+            Kilometer
+        </item>
+
+        <item>
+            Centimeters
+        </item>
+
+        <item>
+            Yard
+        </item>Taka
+
+    </string-array>
+    <string-array name="spinner_fromofarea">
+        <item>
+
+        </item>
+        <item>
+            SQ.Kilometer
+        </item>
+
+        <item>
+            SQ.Centimeters
+        </item>
+
+        <item>
+            SQ.Yard
+        </item>
+
+    </string-array>
+</resources>
